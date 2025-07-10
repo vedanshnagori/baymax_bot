@@ -1,6 +1,6 @@
-# Baymax Bot
-
 ![Baymax Waving](./baymax.jpg)
+
+# Baymax Bot
 
 > _"Hello! I am Baymax. Your personal healthcare companion"_
 
