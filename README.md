@@ -1,5 +1,7 @@
 # Baymax Bot
 
+![Baymax Waving](./baymax.jpg)
+
 > _"Hello! I am Baymax. Your personal healthcare companion"_
 
 This project brings **Baymax**, the beloved robotic healthcare assistant from *Big Hero 6*, into the real world through a Telegram bot. It uses conversational AI, image understanding, and AI voice synthesis to provide simple, supportive health guidance — just like the original Baymax would.
